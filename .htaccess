@@ -1,0 +1,16 @@
+# setting file, para personalizar la configuracion de directivas y parametros definidos en el arhivo de configuracion del alojamiento
+# https://support.cdmon.com/entries/24118027-Informaci%C3%B3n-y-usos-del-fichero-htaccess
+
+# Redirect www.torrentjs.com/index.html --> implica un bucle infinit
+
+
+
+# Redireccion a subdominio
+
+
+
+
+# Control de Acceso al sitio
+
+
+# Lista negra de IP's

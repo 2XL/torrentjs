@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrap Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "\"webrtc",
+    "torrent",
+    "javascript",
+    "p2p",
+    "network",
+    "cloud",
+    "indexing",
+    "kademlia",
+    "cdn",
+    "filesharing\""
+  ],
+  "author": "chenglong.zou <chenglong.zou@estudiants.urv.cat> (http://github.com/2XL)",
+  "license": "ISC"
+}
